@@ -1,0 +1,22 @@
+{
+  "name": "sadje-restapi",
+  "version": "1.0.0",
+  "description": "Kaldi.si naloga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasaJovan99/sadje-restapi.git"
+  },
+  "author": "\"Jasa Jovan\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasaJovan99/sadje-restapi/issues"
+  },
+  "homepage": "https://github.com/JasaJovan99/sadje-restapi#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
